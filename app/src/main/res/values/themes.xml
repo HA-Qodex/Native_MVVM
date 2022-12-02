@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Native_mvvm" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/color_primary_dark</item>
+        <item name="colorPrimaryDark">@color/color_accent</item>
+        <item name="colorAccent">@color/color_text_icons</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
